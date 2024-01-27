@@ -1,0 +1,4 @@
+mov cx,0000
+mov ax,3600h
+mov bx,3000h
+sub ax,bx
